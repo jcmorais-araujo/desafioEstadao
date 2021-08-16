@@ -8,7 +8,7 @@ Para começar, você vai precisar ter instalado em sua máquina a ferramenta [Gi
 
 ### 🎲 Rodando o Back End 
  ```bash 
-# Clone este repositório $ git clone <> 
+# Clone este repositório $ git clone <https://github.com/jcmorais-araujo/desafioEstadao.git> 
 # Acesse a pasta do projeto (desafioEstadao)
 # Vá para o arquivo index.php
 
