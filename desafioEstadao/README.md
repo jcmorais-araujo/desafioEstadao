@@ -4,7 +4,7 @@
 
 ### Pré-requisitos 
 
-Para começar, você vai precisar ter instalado em sua máquina a ferramenta [Git](https://git-scm.com) e [XAMPP] (https://www.apachefriends.org/pt_br/index.html), ou a linguagem de programação [PHP] (https://www.php.net/downloads.php) e alguma extensão que auxilie na criação de um servidor. Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) 
+Para começar, você vai precisar ter instalado em sua máquina a ferramenta [Git] e [XAMPP], ou a linguagem de programação [PHP] e alguma extensão que auxilie na criação de um servidor. Além disto é bom ter um editor para trabalhar com o código como [VSCode]. 
 
 ### 🎲 Rodando o Back End 
  ```bash 
